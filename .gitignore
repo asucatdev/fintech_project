@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Charts & visuals
+/charts/
+/eda_charts/
+/model_charts/ 
+/comparison_charts/
+/model_charts_rf/
+
+# Spotify & API
+.cache
+.env
+
+# macOS system files
+Icon?
+.DS_Store
